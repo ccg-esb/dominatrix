@@ -1,2 +1,2 @@
-# dominatrix
+# Stochastic model of replication and segregation dynamics of multicopy plasmids
 Scripts and data necessary to produce Figures in "Genetic dominance shapes bacterial evolution through horizontal gene transfer ".
